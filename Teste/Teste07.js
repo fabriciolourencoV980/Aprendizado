@@ -2,7 +2,8 @@
 
 let a = 7;
 let b = 94;
-let temp = a;  // Se criou uma terceira variavel que armazena um valor temporário neste caso 7 conforme a variavel a. 
+ // Se criou uma terceira variavel que armazena um valor temporário neste caso 7 conforme a variavel a. 
+let temp = a; 
 a = b; 
 b = temp; 
 
