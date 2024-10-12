@@ -5,8 +5,10 @@ let b = 94;
  // Se criou uma terceira variavel que armazena um valor temporário neste caso 7 conforme a variavel a. 
 let temp = a; 
 a = b; 
-b = temp; 
+b = temp;
 
+/*Uma segunda forma de alterar os valores das variaveis:
+[a , b] = [b , a]*/
 
 console.log(`Valor de a: ${a} \n Valor de b: ${b}`);
 
