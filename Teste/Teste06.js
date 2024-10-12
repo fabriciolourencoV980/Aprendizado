@@ -7,4 +7,4 @@ console.log(`A área do circulo é igual a: ${pi * raio**2} o comprimento da cir
 
 let arecirc = pi * raio**2
 
-console.log('A área do circulo é igual a: ' + arecirc); 
+console.log('A área do circulo é igual a: ' + arecirc);
