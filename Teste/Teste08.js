@@ -17,7 +17,7 @@ const media = total / (peso1 + peso2);
 console.log(media.toFixed(2));
 console.log(media.toString(2)); //Coverte em Binário
 console.log(typeof media);
-
+console.log(typeof Number);
 
 /*O método toFixed() em JavaScript é usado para formatar um número, arredondando-o para um número fixo de casas decimais e retornando o resultado como uma string.*/
 /*O método toString() em JavaScript é utilizado para converter um valor, como números ou objetos, em uma string.*/
