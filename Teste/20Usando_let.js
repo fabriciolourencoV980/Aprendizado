@@ -15,5 +15,4 @@ console.log('Fora =',numero);
   3 - Hoisting com Inicialização Tardia: Assim como var, variáveis declaradas com let são "elevadas" (hoisting) ao topo do escopo. No entanto, diferentemente de var, elas não são inicializadas até que a declaração seja avaliada, e tentar acessar a variável antes da declaração resulta em um erro ReferenceError.
 
   4 - Adequado para Loops: O uso de let em loops é particularmente útil porque ele mantém o escopo correto de cada iteração, diferentemente de var.
-
 */
