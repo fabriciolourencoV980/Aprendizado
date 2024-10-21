@@ -9,7 +9,7 @@ const pessoa = {
     }
 }; 
 
-const { nome, idade } = pessoa; // Tire do objeto pessoa nome e a idade
+const { nome, idade } = pessoa; // Tire do objeto pessoa >>> nome e a idade
 console.log(nome , idade ); 
 
 const { nome: n, idade: i} = pessoa; 
